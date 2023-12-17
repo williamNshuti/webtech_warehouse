@@ -28,8 +28,8 @@ const Login = () => {
   const [errors, setErrors] = useState({});
   const [showPassword, setShowPassword] = useState(false);
   const [credentials, setCredentials] = useState({
-    username: "warehouse1",
-    password: "password",
+    username: "",
+    password: "",
   });
   const [loginState, setLoginState] = useState({
     hasLoginFailed: false,
