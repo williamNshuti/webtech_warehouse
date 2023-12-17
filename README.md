@@ -11,13 +11,13 @@ that are good for their customers.
 
 <hr>
 
-- [Click here to view the project plan](https://github.com/williamNshuti/webtech_warehouse.git/blob/main/projectPlan.pdf)
+- [Click here to view the project plan](https://github.com/williamNshuti/webtech_warehouse/blob/main/projectPlan.pdf)
 
-- [Click here to view the project requirements](https://github.com/williamNshuti/webtech_warehouse.git/blob/main/warehouseRequirements.pdf)
+- [Click here to view the project requirements](https://github.com/williamNshuti/webtech_warehouse/blob/main/warehouseRequirements.pdf)
 
-- [Click here to view the User Documentation](https://github.com/williamNshuti/webtech_warehouse.git/blob/main/userdocumentation.pdf)
+- [Click here to view the User Documentation](https://github.com/williamNshuti/webtech_warehouse/blob/main/userdocumentation.pdf)
 
-- [Click here to view the database schema](https://github.com/williamNshuti/webtech_warehouse.git/blob/main/warehousems_ERD.pdf)
+- [Click here to view the database schema](https://github.com/williamNshuti/webtech_warehouse/blob/main/warehousems_ERD.pdf)
 
 ### Applications
 
